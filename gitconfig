@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = stephenlehanesmith@gmail.com
+	name = Stephen Smith
